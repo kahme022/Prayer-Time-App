@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "114167753628",
+    "firebase_url": "https://masjid-ar-rahmah-1544901860533.firebaseio.com",
+    "project_id": "masjid-ar-rahmah-1544901860533",
+    "storage_bucket": "masjid-ar-rahmah-1544901860533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114167753628:android:8677ad4c543368e8",
+        "android_client_info": {
+          "package_name": "ca.mymasjid.masjidrahmah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114167753628-aqgftbuqjb9uh939lcmtt4qsd8uud5l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1H5vtxdC8NkILIlZCGtE8KsRWEbT6lLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
