@@ -1,5 +1,5 @@
 # Prayer Time App
-An app which tracks and updates the Islamic prayer time for local mosques. Some of the features the app will include are:
+A cross platform mobile application which tracks and updates the Islamic prayer time for local mosques. Some of the features the app will include are:
 
 - Prayer Times
 - Calender and Local Events Page
